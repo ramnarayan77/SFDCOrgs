@@ -35,7 +35,7 @@ public List<String> getdisplayfields()
 {
 List<String> displayfields= new List<String>(selectedOptionvalues);
 displayfields.sort();
-system.debug('Dispfields are : '+displayfields);
+system.debug('Dispfield46644664666464s are : '+displayfields);
 return displayfields;
 }
 

@@ -12,6 +12,7 @@ Dispvals = getDisplayalllvals();
 public String getDisplayalllvals()
 {
 Disp_accvals = Accnt.Name+':'+Accnt.Id+':'+Accnt.Phone;
+system.debug('MYCHANGES');
 return Disp_accvals;
 }
 
